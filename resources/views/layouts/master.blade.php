@@ -214,13 +214,13 @@
                 </a>
                 <ul class="nav nav-treeview">
                   <li class="nav-item">
-                    <a href="../forms/general.html" class="nav-link">
+                    <a href="/barang/form" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
                       <p>Form Barang</p>
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a href="../forms/general.html" class="nav-link">
+                    <a href="/merek/form" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
                       <p>Form Merek</p>
                     </a>
@@ -237,13 +237,13 @@
                 </a>
                 <ul class="nav nav-treeview">
                   <li class="nav-item">
-                    <a href="../tables/simple.html" class="nav-link">
+                    <a href="/barang" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
                       <p>Data Barang</p>
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a href="../tables/simple.html" class="nav-link">
+                    <a href="/merek" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
                       <p>Data Merek</p>
                     </a>
