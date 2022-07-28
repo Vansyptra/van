@@ -35,8 +35,10 @@
                                                 <label class="form-label">Nama Merek</label>
                                                 <input type="text" class="form-control" name="nama">
                                             </div>
+                                            @can('create', App\Merek::class)
                                             <button type="submit" class="btn btn-primary">Tambah Data</button>
                                             <a href="/merek" class="btn btn-danger">Batal</a>
+                                            @endcan
                                         </form>
                                     </div>
                                 </div>

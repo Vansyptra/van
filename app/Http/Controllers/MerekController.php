@@ -42,6 +42,8 @@ class MerekController extends Controller
      */
     public function store(Request $request)
     {
+        $this->authorize('create', Merek::class);
+
         $merek = new Merek;
 
         $merek->nama = $request->nama;
